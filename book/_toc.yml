@@ -11,20 +11,17 @@ parts:
           - file: seccion_1/MMAF_python_1.ipynb
           - file: seccion_1/MMAF_taller_1.ipynb
 
-
       - title: Sección 2
         sections:
           - file: seccion_2/MMAF_actividad_2.ipynb
           - file: seccion_2/MMAF_python_2.ipynb
           - file: seccion_2/MMAF_taller_2.ipynb
- 
 
       - title: Sección 3
         sections:
           - file: seccion_3/MMAF_actividad_3.ipynb
           - file: seccion_3/MMAF_python_3.ipynb
           - file: seccion_3/MMAF_taller_3.ipynb
-
 
       - title: Sección 4
         sections:
@@ -38,13 +35,11 @@ parts:
           - file: seccion_5/MMAF_python_5.ipynb
           - file: seccion_5/MMAF_taller_5.ipynb
 
-
       - title: Sección 6
         sections:
           - file: seccion_6/MMAF_actividad_6.ipynb
           - file: seccion_6/MMAF_python_6.ipynb
           - file: seccion_6/MMAF_taller_6.ipynb
-
 
       - title: Sección 7
         sections:
@@ -52,10 +47,8 @@ parts:
           - file: seccion_7/MMAF_python_7.ipynb
           - file: seccion_7/MMAF_taller_7.ipynb
 
-
       - title: Sección 8
         sections:
           - file: seccion_8/MMAF_actividad_8.ipynb
           - file: seccion_8/MMAF_python_8.ipynb
           - file: seccion_8/MMAF_taller_8.ipynb
-  
