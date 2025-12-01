@@ -3,60 +3,59 @@ root: intro.md
 
 parts:
   - caption: Contenido
-    numbered: true
+    numbered: false
     chapters:
-      - file: seccion_1/Readme.md
-        title: Sección 1
+      - title: Sección 1
         sections:
           - file: seccion_1/MMAF_actividad_1.ipynb
           - file: seccion_1/MMAF_python_1.ipynb
           - file: seccion_1/MMAF_taller_1.ipynb
 
-      - file: seccion_2/Readme.md
-        title: Sección 2
+
+      - title: Sección 2
         sections:
           - file: seccion_2/MMAF_actividad_2.ipynb
           - file: seccion_2/MMAF_python_2.ipynb
           - file: seccion_2/MMAF_taller_2.ipynb
+ 
 
-      - file: seccion_3/Readme.md
-        title: Sección 3
+      - title: Sección 3
         sections:
           - file: seccion_3/MMAF_actividad_3.ipynb
           - file: seccion_3/MMAF_python_3.ipynb
           - file: seccion_3/MMAF_taller_3.ipynb
 
-      - file: seccion_4/Readme.md
-        title: Sección 4
+
+      - title: Sección 4
         sections:
           - file: seccion_4/MMAF_actividad_4.ipynb
           - file: seccion_4/MMAF_python_4.ipynb
           - file: seccion_4/MMAF_taller_4.ipynb
 
-      - file: seccion_5/Readme.md
-        title: Sección 5
+      - title: Sección 5
         sections:
           - file: seccion_5/MMAF_actividad_5.ipynb
           - file: seccion_5/MMAF_python_5.ipynb
           - file: seccion_5/MMAF_taller_5.ipynb
 
-      - file: seccion_6/Readme.md
-        title: Sección 6
+
+      - title: Sección 6
         sections:
           - file: seccion_6/MMAF_actividad_6.ipynb
           - file: seccion_6/MMAF_python_6.ipynb
           - file: seccion_6/MMAF_taller_6.ipynb
 
-      - file: seccion_7/Readme.md
-        title: Sección 7
+
+      - title: Sección 7
         sections:
           - file: seccion_7/MMAF_actividad_7.ipynb
           - file: seccion_7/MMAF_python_7.ipynb
           - file: seccion_7/MMAF_taller_7.ipynb
 
-      - file: seccion_8/Readme.md
-        title: Sección 8
+
+      - title: Sección 8
         sections:
           - file: seccion_8/MMAF_actividad_8.ipynb
           - file: seccion_8/MMAF_python_8.ipynb
           - file: seccion_8/MMAF_taller_8.ipynb
+  
